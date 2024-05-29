@@ -1,0 +1,58 @@
+{
+  "appName": "JPM App",
+  "cmpyName": "JPM",
+  "cmpyLogo": "data:image/png;base64,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",
+  "topNav": true,
+  "sideNav": true,
+  "navbarData": [
+    {
+      "menuName": "Home",
+      "routePath": "Home",
+      "parentMenu": "",
+      "reference": "Home",
+      "functionality": "",
+      "items": []
+    },
+    {
+      "menuName": "Merchant",
+      "routePath": "Merchant",
+      "parentMenu": "",
+      "reference": "Merchant",
+      "functionality": "",
+      "items": []
+    },
+    {
+      "menuName": "Reports",
+      "routePath": "Reports",
+      "parentMenu": "",
+      "reference": "Reports",
+      "functionality": "",
+      "items": []
+    },
+    {
+      "menuName": "System",
+      "routePath": "System",
+      "parentMenu": "",
+      "reference": "System",
+      "functionality": "",
+      "items": []
+    },
+    {
+      "menuName": "Admin",
+      "routePath": "Admin",
+      "parentMenu": "",
+      "reference": "Admin",
+      "functionality": "",
+      "items": []
+    },
+    {
+      "menuName": "Support",
+      "routePath": "Support",
+      "parentMenu": "",
+      "reference": "Support",
+      "functionality": "",
+      "items": []
+    }
+  ],
+  "cmpyWebLink": "JPM"
+}
